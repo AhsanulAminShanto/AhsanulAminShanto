@@ -1,6 +1,6 @@
-<img align="left" width="40px" src="./assets/img/pablo-34.gif">
+
 Hi 👋, I'm Ahsanul Amin Shanto
-<img align="right" width="25px" src="./assets/img/pablo-28.gif">
+
 
 # 💫 About Me:
 🌱 I'm currently learning advanced testing techniques with Selenium, Postman, Jira, and TestRail, while exploring deeper skills in Unity, Flutter, and web development with HTML, CSS, PHP, and MySQL.<br>👥 I'm looking to collaborate on innovative game projects using Unity and C#, mobile apps with Flutter/Dart, or AI-driven urban ecosystems like GreenScapeAI.<br>🌟 I'm looking for help with optimizing game performance in Unity, integrating gyroscope and GPS features in mobile apps, or securing data handling in health monitoring platforms.<br>🔍 Ask me about my projects like Word Master (word puzzle game), GreenScapeAI (urban optimization), Diabetic Health Monitor (patient tracking), or Weather Mobile App (gyro-based weather updates), and my experience as a Game Development Intern.<br>⚡ Fun fact: I’m a district champion in inter-school handball and led my team to victory in the Microprocessor TechFest at IUB!
